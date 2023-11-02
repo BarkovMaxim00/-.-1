@@ -1,4 +1,3 @@
-import itertools
 
 money_capital = 20000  # Подушка безопасности
 salary = 5000  # Ежемесячная зарплата
